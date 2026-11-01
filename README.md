@@ -69,5 +69,5 @@ Sinta-se à vontade para abrir **Issues** ou enviar **Pull Requests**. Sugestõe
 ---
 
 <p align="center">
-  Feito com 💜 por <a href="https://github.com/clenio77">Clenio</a>
+  Feito com 💜 por <a href="https://github.com/cleniooliveiramoura">Clenio</a>
 </p>
